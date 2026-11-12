@@ -14,15 +14,3 @@
 
 5. Winning criteria:
     Alice and Bob wins iff (a xor b) = (x xor y)
-
-## Protocol components
-
-### Parties involved in the CHSH Protocol
-1. Alice
-2. Bob
-
-### Quantum Communication Links
-- Alice - Bob
-
-### Classical Communication Links
-- Alice - Bob
